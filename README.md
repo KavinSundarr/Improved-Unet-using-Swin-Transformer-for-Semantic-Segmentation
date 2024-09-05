@@ -53,4 +53,8 @@ The dataset for this project can be found on Kaggle:
 ---
 
 This project highlights the potential of hybrid deep learning architectures, such as the Swin Transformer-based UNet, to outperform traditional segmentation methods, particularly for complex datasets like aerial imagery.
-"""
+
+Contributors:
+S. Kavin Sundarr
+Rohan Inamdar
+Dr. Nitish Katal
